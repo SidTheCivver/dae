@@ -259,7 +259,7 @@ SCALE_DF = pandas.DataFrame({
 
 
 def main():
-    # Give the user a grand welcome.
+    # Give the user a grand welcome
     print("Welcome to Sid Two's Chord Progression + Rhythm Generator")
 
     # Ask the user for style and key.
